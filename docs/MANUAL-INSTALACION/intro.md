@@ -38,7 +38,7 @@ correcto funcionamiento.
 
 ***Fase 5:*** 
 
-Se lleva acabo el proceso de pruebas QA de la apliacion para su correcto funcionamiento y facilidad de usu para los usuario y capacitaciones, y genereracion de la acta entrega recepcion a las entidades beneficiarias GAD CAYAMBE.
+Se ejecutan las pruebas de aseguramiento de calidad (QA) para validar el correcto funcionamiento del sistema App SPGCT en los diferentes entornos de trabajo. Posteriormente, se realiza el levantamiento y despliegue del sistema en los servidores del GADIP Cayambe, asegurando la conexión y comunicación del APK con el servidor principal. Además, se efectúan pruebas de conectividad, estabilidad y rendimiento de la aplicación móvil. Finalmente, se lleva a cabo el lanzamiento oficial del sistema, acompañado de capacitaciones dirigidas a técnicos y veedores responsables del uso y soporte de la plataforma.
 
 ***Construcción Fase 2***
 
