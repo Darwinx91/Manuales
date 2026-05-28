@@ -125,7 +125,7 @@ cantón de Cayambe, así como el análisis de los datos obtenidos en cada proces
 1. Descargar la aplicación desde el siguiente link:
 
 :::info Enlace del apk
-https://github.com/gadipmcsoftware/fullstack_spgct.git
+https://drive.google.com/file/d/1p4J41kXXIZozOEHMtU6GAkkcsQdwEnho/view?usp=sharing
 :::
 
 2. Instalar la aplicación en el dispositivo.
